@@ -53,6 +53,7 @@ def make_test_dice(*outcomes):
         assert type(o) == int and o >= 1, 'Outcome is not a positive integer'
 
     # Very useful techniques called closure, which can be used to create a counter.
+    # Get incremented each time the dice() is called.
     index = len(outcomes) - 1
 
     def dice():

@@ -56,6 +56,15 @@ def count_cond(condition):
     8
     """
     "*** YOUR CODE HERE ***"
+    def count_num(n):
+        i = 1
+        count = 0
+        while i <= n:
+            if condition(n,i):
+                count += 1
+            i += 1
+        return count
+    return count_num
 
 
 def composer(f, g):
@@ -91,6 +100,15 @@ def composite_identity(f, g):
     False
     """
     "*** YOUR CODE HERE ***"
+    def composer_identity(x):
+        compose1 = composer(f,g)
+        compose2 = composer(g,f)
+        if compose1(x) == compose2(x):
+            return True
+        else:
+            return False
+
+    return composer_identity
 
 
 def cycle(f1, f2, f3):
@@ -120,3 +138,25 @@ def cycle(f1, f2, f3):
     19
     """
     "*** YOUR CODE HERE ***"
+    # Setting the parameters n (looping time)
+    def cycling(n):
+
+        # Doing the actual computation
+        def computing(x):
+            if n == 0:
+                return x
+            i = 1
+            composed = x
+            while i <= n:
+                if i % 3 == 1:
+                    composed = f1(composed)
+                elif i % 3 == 2:
+                    composed = f2(composed)
+                else:
+                    composed = f3(composed)
+                i += 1
+            return composed
+
+        return computing
+
+    return cycling

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a74375d5-ad67-4f31-bce6-41fb0752dc85" name="Default" comment="" />
+    <list default="true" id="a74375d5-ad67-4f31-bce6-41fb0752dc85" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/labs/lab02/.ok_history" afterPath="$PROJECT_DIR$/labs/lab02/.ok_history" />
+      <change beforePath="$PROJECT_DIR$/labs/lab02/.ok_storage.bak" afterPath="$PROJECT_DIR$/labs/lab02/.ok_storage.bak" />
+      <change beforePath="$PROJECT_DIR$/labs/lab02/.ok_storage.dat" afterPath="$PROJECT_DIR$/labs/lab02/.ok_storage.dat" />
+      <change beforePath="$PROJECT_DIR$/labs/lab02/.ok_storage.dir" afterPath="$PROJECT_DIR$/labs/lab02/.ok_storage.dir" />
+      <change beforePath="$PROJECT_DIR$/labs/lab02/lab02.py" afterPath="$PROJECT_DIR$/labs/lab02/lab02.py" />
+      <change beforePath="$PROJECT_DIR$/proj/hog/dice.py" afterPath="$PROJECT_DIR$/proj/hog/dice.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,26 +23,37 @@
     <SUITE FILE_PATH="coverage/UCB_CS61A$TikTok.coverage" NAME="TikTok Coverage Results" MODIFIED="1672393432771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hws/hw02" />
     <SUITE FILE_PATH="coverage/UCB_CS61A$DomainOnTheRange.coverage" NAME="DomainOnTheRange Coverage Results" MODIFIED="1672392800019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hws/hw02" />
     <SUITE FILE_PATH="coverage/UCB_CS61A$disc01.coverage" NAME="disc01 Coverage Results" MODIFIED="1672306258930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/disc" />
+    <SUITE FILE_PATH="coverage/UCB_CS61A$test.coverage" NAME="test Coverage Results" MODIFIED="1672470238600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/UCB_CS61A$exam_practice.coverage" NAME="exam_practice Coverage Results" MODIFIED="1672392367692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hws/hw02" />
     <SUITE FILE_PATH="coverage/UCB_CS61A$sound.coverage" NAME="sound Coverage Results" MODIFIED="1672415114576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec/Week3" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="lab02.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lab02.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/labs/lab02/lab02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="32" column="64" lean-forward="false" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+            <state relative-caret-position="432">
+              <caret line="81" column="13" lean-forward="true" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lambda.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/labs/sol-lab02/tests/lambda.py">
+      <file leaf-file-name="lab03.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/labs/lab03/lab03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1872">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="552">
+              <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab03.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/labs/sol-lab03/lab03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -52,6 +73,9 @@
       <find>roll_dice</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -60,12 +84,14 @@
         <option value="$PROJECT_DIR$/hws/hw02/exam_practice.py" />
         <option value="$PROJECT_DIR$/hws/hw02/DomainOnTheRange.py" />
         <option value="$PROJECT_DIR$/hws/hw02/TikTok.py" />
-        <option value="$PROJECT_DIR$/proj/hog/dice.py" />
         <option value="$PROJECT_DIR$/proj/hog/hog.py" />
         <option value="$PROJECT_DIR$/lec/Week3/sound.py" />
         <option value="$PROJECT_DIR$/lec/Week3/abstraction.py" />
         <option value="$PROJECT_DIR$/lec/Week3/lec7.py" />
+        <option value="$PROJECT_DIR$/proj/hog/dice.py" />
         <option value="$PROJECT_DIR$/labs/lab02/lab02.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/labs/lab03/lab03.py" />
       </list>
     </option>
   </component>
@@ -76,11 +102,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3512" />
+    <option name="x" value="3507" />
     <option name="y" value="-468" />
-    <option name="width" value="1616" />
+    <option name="width" value="1621" />
     <option name="height" value="1808" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -120,32 +147,13 @@
               <item name="UCB_CS61A" type="b2602c69:ProjectViewProjectNode" />
               <item name="UCB_CS61A" type="462c0819:PsiDirectoryNode" />
               <item name="labs" type="462c0819:PsiDirectoryNode" />
-              <item name="lab02" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="lab03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UCB_CS61A" type="b2602c69:ProjectViewProjectNode" />
               <item name="UCB_CS61A" type="462c0819:PsiDirectoryNode" />
               <item name="labs" type="462c0819:PsiDirectoryNode" />
-              <item name="sol-lab02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UCB_CS61A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UCB_CS61A" type="462c0819:PsiDirectoryNode" />
-              <item name="labs" type="462c0819:PsiDirectoryNode" />
-              <item name="sol-lab02" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UCB_CS61A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UCB_CS61A" type="462c0819:PsiDirectoryNode" />
-              <item name="lec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UCB_CS61A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UCB_CS61A" type="462c0819:PsiDirectoryNode" />
-              <item name="lec" type="462c0819:PsiDirectoryNode" />
-              <item name="Week3" type="462c0819:PsiDirectoryNode" />
+              <item name="sol-lab03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sound">
+  <component name="RunManager" selected="Python.test">
     <configuration name="DomainOnTheRange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,25 +213,6 @@
       <module name="UCB_CS61A" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hws/hw02/TikTok.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="disc01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/disc" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="UCB_CS61A" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/disc/disc01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,20 +256,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UCB_CS61A" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.disc01" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exam_practice" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DomainOnTheRange" />
-      <item index="3" class="java.lang.String" itemvalue="Python.TikTok" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sound" />
+      <item index="0" class="java.lang.String" itemvalue="Python.exam_practice" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DomainOnTheRange" />
+      <item index="2" class="java.lang.String" itemvalue="Python.TikTok" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sound" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sound" />
-        <item index="1" class="java.lang.String" itemvalue="Python.TikTok" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DomainOnTheRange" />
-        <item index="3" class="java.lang.String" itemvalue="Python.exam_practice" />
-        <item index="4" class="java.lang.String" itemvalue="Python.disc01" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sound" />
+        <item index="2" class="java.lang.String" itemvalue="Python.TikTok" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DomainOnTheRange" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exam_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -301,18 +309,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3512" y="-468" width="1616" height="1808" extended-state="0" />
-    <editor active="true" />
+    <frame x="3507" y="-468" width="1621" height="1808" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32927573" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36518565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17250325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1719457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -335,7 +342,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -398,14 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1296">
           <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj/hog/dice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -480,18 +481,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/proj/hog/dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="55" column="53" lean-forward="false" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/labs/sol-lab02/lab02.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="113" column="21" lean-forward="true" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labs/sol-lab03/lab03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/labs/lab02/lab02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="32" column="64" lean-forward="false" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+        <state relative-caret-position="432">
+          <caret line="81" column="13" lean-forward="true" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labs/lab03/lab03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
           <folding />
         </state>
       </provider>
