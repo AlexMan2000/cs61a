@@ -1,0 +1,8 @@
+'summation-correct', (0, 70)
+'pascal-correct', (512, 70)
+'paths-correct', (1024, 70)
+'couple-correct', (1536, 70)
+'Squared Virahanka Fibonacci-correct', (2048, 70)
+'double_eights-correct', (2560, 70)
+'coords-correct', (3072, 70)
+'riffle-correct', (3584, 70)
