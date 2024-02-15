@@ -11,4 +11,5 @@ def cascade(n):
 
 
 if __name__ == "__main__":
-    cascade(1)
+    import re
+    print(re.match("([^/]*$)", "23232bds: sfs/fsd/s"))
